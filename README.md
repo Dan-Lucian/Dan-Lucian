@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Dan-Lucian
-- 👀 I’m interested in coding and sports
-- 🌱 I’m currently learning javascript
-- 📫 How to reach me - danugaina@gmail.com
+Hello there fellow believers!
+
+Here is the place of truth ...and code!
 
 <!---
 Dan-Lucian/Dan-Lucian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
