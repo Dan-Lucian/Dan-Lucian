@@ -1,6 +1,6 @@
 Hello there fellow believers!
 
-Here is the place of truth ...and code!
+Welcome to the source of truth.
 
 <!---
 Dan-Lucian/Dan-Lucian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
